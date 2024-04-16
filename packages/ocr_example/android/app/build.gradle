@@ -54,6 +54,8 @@ android {
 
 dependencies {
     // Add language package you need to use
+    // NOTE romanian does not work
+    //implementation 'com.google.mlkit:text-recognition-romanian:16.0.0-beta6'
     // implementation 'com.google.mlkit:text-recognition-chinese:16.0.0'
     // implementation 'com.google.mlkit:text-recognition-devanagari:16.0.0'
     // implementation 'com.google.mlkit:text-recognition-japanese:16.0.0'
