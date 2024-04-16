@@ -1,3 +1,6 @@
+
+# NOTE also see https://github.com/AaqilSh/Image-to-Text-Translation
+
 # google\_ml\_kit example app
 
 Demonstrates how to use the google_mlkit plugins.
